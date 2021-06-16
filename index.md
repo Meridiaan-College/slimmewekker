@@ -27,6 +27,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-### hoe werkt de Slimmewekker?
+### _Italic_ and `Code` hoe werkt de Slimmewekker?
 Slimmewekker werkt eigenlijk exact hetzelfde als de normale wekker app. Alleen in plaats van dat je hier op de snooze knop drukt, moet je nu een spel spelen om de wekker te stoppen. Je kamer wordt verlicht met de kleuren van het spel. En je moet je telefoon in een bepaalde stand houden om het spel te activeren. Na het level gehaald te hebben is het de bedoeling dat je wakker genoeg bent om op te staan.  
 
