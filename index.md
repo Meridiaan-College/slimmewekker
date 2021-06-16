@@ -27,11 +27,6 @@ Syntax highlighted code block
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+### hoe werkt de Slimmewekker?
+Slimmewekker werkt eigenlijk exact hetzelfde als de normale wekker app. Alleen in plaats van dat je hier op de snooze knop drukt, moet je nu een spel spelen om de wekker te stoppen. Je kamer wordt verlicht met de kleuren van het spel. En je moet je telefoon in een bepaalde stand houden om het spel te activeren. Na het level gehaald te hebben is het de bedoeling dat je wakker genoeg bent om op te staan.  
 
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/Meridiaan-College/slimmewekker/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
