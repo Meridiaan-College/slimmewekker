@@ -3,6 +3,8 @@
 You can use the [editor on GitHub](https://github.com/Meridiaan-College/slimmewekker/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+![image](https://user-images.githubusercontent.com/84840837/122368963-11f3d500-cf5e-11eb-977f-6fb1d6ff3b5e.png)
+
 ### Hoe werkt de wake-up game?
 Wake-up game werkt eigenlijk exact hetzelfde als de normale wekker app. Alleen in plaats van dat je hier op de snooze knop drukt, moet je nu een spel spelen om de wekker te stoppen. Je kamer wordt verlicht met de kleuren van het spel. En je moet je telefoon in een bepaalde stand houden om het spel te activeren. Na het level gehaald te hebben is het de bedoeling dat je wakker genoeg bent om op te staan. Na het spelen van het spel blijven de lampen aanstaan, zodat er voldoende licht is om wakker te blijven.
 ### Spellen
