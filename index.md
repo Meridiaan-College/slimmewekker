@@ -24,7 +24,7 @@ Syntax highlighted code block
 **Bold** and _Italic_ and `Code` text
 
 [Link](url) and ![Image](src)
-[afbeelding](![image](https://user-images.githubusercontent.com/84840837/122367759-0227c100-cf5d-11eb-9649-de94326c5e6a.png)
+[image](https://user-images.githubusercontent.com/84840837/122367759-0227c100-cf5d-11eb-9649-de94326c5e6a.png)
 
 ### Hoe werkt de wake-up game?
 Wake-up game werkt eigenlijk exact hetzelfde als de normale wekker app. Alleen in plaats van dat je hier op de snooze knop drukt, moet je nu een spel spelen om de wekker te stoppen. Je kamer wordt verlicht met de kleuren van het spel. En je moet je telefoon in een bepaalde stand houden om het spel te activeren. Na het level gehaald te hebben is het de bedoeling dat je wakker genoeg bent om op te staan. Na het spelen van het spel blijven de lampen aanstaan, zodat er voldoende licht is om wakker te blijven.
