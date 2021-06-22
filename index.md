@@ -21,7 +21,6 @@ Een gratis karakter
 leven pakket van 10 levels = €20,-
 
 Eigen poppetje ontwerpen = €5,-_
-
 ### Hoe stop je de wekker
 Op  het moment dat jij je wekker hebt gezet gaat je alarm af, er komt dan een spel in beeld van je telefoon. Je moet dan je telefoon zo recht houden dat je eigenlijk rechtop moet gaan zitten. Ook gaan je lampen aan in de kleuren van het spel. Op het moment dat je dit doet activeer je het spel. Dan moet je gewoon de game spelen, nadat je het spelletje hebt voltooid gaat het alarm uit maar de lichten blijven aan. En als je het pakket met gordijnen hebt gekocht, dan gaan op het moment dat je wekker gaat de gordijnen open.
 ### Demo
