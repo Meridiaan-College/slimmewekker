@@ -4,8 +4,8 @@
 ### Hoe werkt de wake-up game?
 Wake-up game werkt eigenlijk exact hetzelfde als de normale wekker app. Alleen in plaats van dat je hier op de snooze knop drukt, moet je nu een spel spelen om de wekker te stoppen. Je kamer wordt verlicht met de kleuren van het spel. En je moet je telefoon in een bepaalde stand houden om het spel te activeren. Na het level gehaald te hebben is het de bedoeling dat je wakker genoeg bent om op te staan. Na het spelen van het spel blijven de lampen aanstaan, zodat er voldoende licht is om wakker te blijven.
 ### Spellen
-Als je de app downloadt krijg je een aantal levels gratis, maar wil je meer spellen of levels spelen dan moet je daar aankopen voor doen. 
-### prijs
+Als je de app downloadt krijg je een aantal levels gratis, maar wil je meer spellen of levels spelen dan moet je daar aankopen voor doen, met de tokens die je in de app kan kopen of de tokens die je bij je pakket hebt gekregen. 
+### Prijzen
 _Smart lamp met app + €5 aan tokens = €60,-
 
 _Smart lamp + gordijnen + €15 aan tokens = €100,-
@@ -23,6 +23,6 @@ leven pakket van 10 levels = €20,-
 Eigen poppetje ontwerpen = €5,-_
 
 ### Hoe stop je de wekker
-Op  het moment dat jij je wekker hebt gezet gaat je alarm af, er komt dan een spel in beeld van je telefoon. Je moet dan je telefoon zo recht houden dat je eigenlijk rechtop moet gaan zitten. Ook gaan je lampen aan in de kleuren van het spel. Op het moment dat je dit doet activeer je het spel. Dan moet je gewoon de game spelen, nadat je het spelletje hebt voltooid gaat het alarm uit maar de lichten blijven aan.
-### Extra's
-Je kan verschillende pakketen kopen waarvan er één het beginners pakket is. In het beginners pakket zit een lamp die je kan aansluiten met de app. Ook kan je nog een ander pakket kopen met gordijnen die open gaan op het moment dat je wekker afgaat. 
+Op  het moment dat jij je wekker hebt gezet gaat je alarm af, er komt dan een spel in beeld van je telefoon. Je moet dan je telefoon zo recht houden dat je eigenlijk rechtop moet gaan zitten. Ook gaan je lampen aan in de kleuren van het spel. Op het moment dat je dit doet activeer je het spel. Dan moet je gewoon de game spelen, nadat je het spelletje hebt voltooid gaat het alarm uit maar de lichten blijven aan. En als je het pakket met gordijnen hebt gekocht, dan gaan op het moment dat je wekker gaat de gordijnen open.
+### Demo
+
